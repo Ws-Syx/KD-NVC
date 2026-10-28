@@ -1,0 +1,14 @@
+{
+    "root_path": ".",
+    "test_classes": {
+        "UVG": {
+            "test": 1,
+            "base_path": "dataset",
+            "src_type": "yuv420",
+            "sequences": {
+                "Beauty_1920x1080_120fps_420_8bit_YUV.yuv": {"width": 1920, "height": 1080, "frames": 600, "intra_period": -1}
+                
+            }
+        }
+    }
+}

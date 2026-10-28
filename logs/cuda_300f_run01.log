@@ -1,0 +1,620 @@
+[GPU] NVIDIA GeForce RTX 5060
+[WARN] random_weights=True: I-frame checkpoint NOT loaded (speed-only)
+[WARN] random_weights=True: P-frame checkpoint NOT loaded (speed-only) [tiny]
+[SEQ] UVG/Beauty_1920x1080_120fps_420_8bit_YUV.yuv  1920x1080  frames=300  intra_period=-1  reset_interval=64  qp=32
+created folder: out_bin_cuda/UVG
+  enc frame   0  I   215.18 ms  bits=1,118,648
+  enc frame   1  P    26.58 ms  bits=997,640
+  enc frame   2  P    18.83 ms  bits=836,720
+  enc frame   3  P    18.61 ms  bits=810,728
+  enc frame   4  P    19.13 ms  bits=822,216
+  enc frame   5  P    19.17 ms  bits=819,704
+  enc frame   6  P    19.34 ms  bits=820,520
+  enc frame   7  P    18.54 ms  bits=821,280
+  enc frame   8  P    18.88 ms  bits=821,800
+  enc frame   9  P    18.94 ms  bits=820,408
+  enc frame  10  P    18.20 ms  bits=820,872
+  enc frame  11  P    18.56 ms  bits=820,728
+  enc frame  12  P    18.63 ms  bits=821,752
+  enc frame  13  P    18.70 ms  bits=821,272
+  enc frame  14  P    18.91 ms  bits=821,704
+  enc frame  15  P    18.34 ms  bits=821,760
+  enc frame  16  P    18.37 ms  bits=821,480
+  enc frame  17  P    18.59 ms  bits=820,696
+  enc frame  18  P    18.57 ms  bits=822,152
+  enc frame  19  P    18.80 ms  bits=821,344
+  enc frame  20  P    18.86 ms  bits=821,400
+  enc frame  21  P    18.47 ms  bits=820,832
+  enc frame  22  P    18.31 ms  bits=821,728
+  enc frame  23  P    18.10 ms  bits=821,184
+  enc frame  24  P    19.08 ms  bits=820,640
+  enc frame  25  P    18.87 ms  bits=820,616
+  enc frame  26  P    18.54 ms  bits=821,800
+  enc frame  27  P    18.18 ms  bits=821,040
+  enc frame  28  P    18.62 ms  bits=820,944
+  enc frame  29  P    18.45 ms  bits=821,200
+  enc frame  30  P    19.15 ms  bits=821,592
+  enc frame  31  P    19.15 ms  bits=820,784
+  enc frame  32  P    18.34 ms  bits=821,808
+  enc frame  33  P    18.26 ms  bits=821,168
+  enc frame  34  P    18.47 ms  bits=821,080
+  enc frame  35  P    18.55 ms  bits=821,784
+  enc frame  36  P    18.97 ms  bits=820,416
+  enc frame  37  P    18.22 ms  bits=821,280
+  enc frame  38  P    18.80 ms  bits=820,176
+  enc frame  39  P    18.29 ms  bits=821,784
+  enc frame  40  P    19.15 ms  bits=820,864
+  enc frame  41  P    18.82 ms  bits=820,976
+  enc frame  42  P    18.81 ms  bits=820,952
+  enc frame  43  P    18.44 ms  bits=821,152
+  enc frame  44  P    19.20 ms  bits=820,760
+  enc frame  45  P    18.36 ms  bits=819,320
+  enc frame  46  P    19.09 ms  bits=819,960
+  enc frame  47  P    18.90 ms  bits=819,960
+  enc frame  48  P    18.97 ms  bits=821,096
+  enc frame  49  P    18.39 ms  bits=819,240
+  enc frame  50  P    19.28 ms  bits=820,376
+  enc frame  51  P    18.32 ms  bits=819,416
+  enc frame  52  P    18.63 ms  bits=819,664
+  enc frame  53  P    18.99 ms  bits=819,816
+  enc frame  54  P    19.24 ms  bits=819,960
+  enc frame  55  P    19.02 ms  bits=820,480
+  enc frame  56  P    19.55 ms  bits=820,432
+  enc frame  57  P    18.84 ms  bits=819,128
+  enc frame  58  P    18.66 ms  bits=820,024
+  enc frame  59  P    18.91 ms  bits=820,960
+  enc frame  60  P    18.76 ms  bits=820,192
+  enc frame  61  P    18.25 ms  bits=820,304
+  enc frame  62  P    18.55 ms  bits=820,456
+  enc frame  63  P    18.50 ms  bits=820,088
+  enc frame  64  P    18.79 ms  bits=820,688
+  enc frame  65  P    27.05 ms  bits=825,816
+  enc frame  66  P    18.39 ms  bits=832,752
+  enc frame  67  P    18.87 ms  bits=806,792
+  enc frame  68  P    18.83 ms  bits=819,712
+  enc frame  69  P    19.02 ms  bits=819,576
+  enc frame  70  P    18.30 ms  bits=820,728
+  enc frame  71  P    18.28 ms  bits=820,648
+  enc frame  72  P    18.47 ms  bits=820,432
+  enc frame  73  P    18.37 ms  bits=819,272
+  enc frame  74  P    18.83 ms  bits=818,768
+  enc frame  75  P    18.89 ms  bits=820,256
+  enc frame  76  P    18.20 ms  bits=820,728
+  enc frame  77  P    18.36 ms  bits=819,960
+  enc frame  78  P    18.51 ms  bits=819,960
+  enc frame  79  P    18.54 ms  bits=820,032
+  enc frame  80  P    18.87 ms  bits=820,240
+  enc frame  81  P    19.18 ms  bits=820,552
+  enc frame  82  P    19.16 ms  bits=820,168
+  enc frame  83  P    18.31 ms  bits=819,744
+  enc frame  84  P    18.37 ms  bits=820,264
+  enc frame  85  P    18.64 ms  bits=820,216
+  enc frame  86  P    18.95 ms  bits=819,496
+  enc frame  87  P    18.49 ms  bits=820,304
+  enc frame  88  P    18.63 ms  bits=821,184
+  enc frame  89  P    18.55 ms  bits=821,248
+  enc frame  90  P    18.52 ms  bits=822,168
+  enc frame  91  P    18.85 ms  bits=820,200
+  enc frame  92  P    18.15 ms  bits=821,208
+  enc frame  93  P    18.22 ms  bits=819,968
+  enc frame  94  P    18.28 ms  bits=820,104
+  enc frame  95  P    19.22 ms  bits=818,904
+  enc frame  96  P    18.60 ms  bits=821,248
+  enc frame  97  P    19.61 ms  bits=820,280
+  enc frame  98  P    18.18 ms  bits=818,880
+  enc frame  99  P    19.03 ms  bits=818,848
+  enc frame 100  P    18.47 ms  bits=820,432
+  enc frame 101  P    19.04 ms  bits=819,320
+  enc frame 102  P    18.76 ms  bits=821,176
+  enc frame 103  P    18.85 ms  bits=821,728
+  enc frame 104  P    18.28 ms  bits=820,384
+  enc frame 105  P    18.85 ms  bits=820,696
+  enc frame 106  P    19.08 ms  bits=820,888
+  enc frame 107  P    18.37 ms  bits=821,872
+  enc frame 108  P    18.83 ms  bits=822,872
+  enc frame 109  P    18.99 ms  bits=821,368
+  enc frame 110  P    18.38 ms  bits=820,912
+  enc frame 111  P    18.99 ms  bits=820,096
+  enc frame 112  P    18.38 ms  bits=820,368
+  enc frame 113  P    18.55 ms  bits=818,728
+  enc frame 114  P    18.85 ms  bits=820,176
+  enc frame 115  P    19.05 ms  bits=819,680
+  enc frame 116  P    18.30 ms  bits=820,880
+  enc frame 117  P    18.33 ms  bits=820,224
+  enc frame 118  P    18.38 ms  bits=819,592
+  enc frame 119  P    18.37 ms  bits=820,112
+  enc frame 120  P    18.73 ms  bits=819,736
+  enc frame 121  P    18.88 ms  bits=819,512
+  enc frame 122  P    18.40 ms  bits=821,280
+  enc frame 123  P    18.33 ms  bits=819,064
+  enc frame 124  P    18.31 ms  bits=820,368
+  enc frame 125  P    18.24 ms  bits=820,008
+  enc frame 126  P    19.07 ms  bits=819,904
+  enc frame 127  P    18.85 ms  bits=819,984
+  enc frame 128  P    18.59 ms  bits=820,936
+  enc frame 129  P    21.61 ms  bits=828,184
+  enc frame 130  P    18.61 ms  bits=832,304
+  enc frame 131  P    18.41 ms  bits=806,376
+  enc frame 132  P    18.84 ms  bits=820,312
+  enc frame 133  P    19.00 ms  bits=818,328
+  enc frame 134  P    18.46 ms  bits=820,496
+  enc frame 135  P    18.36 ms  bits=821,088
+  enc frame 136  P    19.58 ms  bits=820,872
+  enc frame 137  P    18.70 ms  bits=819,840
+  enc frame 138  P    18.77 ms  bits=820,280
+  enc frame 139  P    18.34 ms  bits=820,280
+  enc frame 140  P    18.96 ms  bits=819,360
+  enc frame 141  P    18.52 ms  bits=820,752
+  enc frame 142  P    19.23 ms  bits=821,896
+  enc frame 143  P    19.06 ms  bits=821,744
+  enc frame 144  P    19.33 ms  bits=821,840
+  enc frame 145  P    18.27 ms  bits=822,360
+  enc frame 146  P    19.24 ms  bits=822,336
+  enc frame 147  P    18.73 ms  bits=821,456
+  enc frame 148  P    18.69 ms  bits=822,552
+  enc frame 149  P    18.99 ms  bits=822,160
+  enc frame 150  P    18.93 ms  bits=822,256
+  enc frame 151  P    18.37 ms  bits=822,736
+  enc frame 152  P    19.30 ms  bits=822,904
+  enc frame 153  P    18.43 ms  bits=822,696
+  enc frame 154  P    18.88 ms  bits=822,416
+  enc frame 155  P    18.92 ms  bits=822,632
+  enc frame 156  P    18.60 ms  bits=822,480
+  enc frame 157  P    18.80 ms  bits=822,872
+  enc frame 158  P    18.93 ms  bits=823,416
+  enc frame 159  P    18.48 ms  bits=821,856
+  enc frame 160  P    18.87 ms  bits=822,384
+  enc frame 161  P    19.18 ms  bits=821,200
+  enc frame 162  P    18.33 ms  bits=821,696
+  enc frame 163  P    18.22 ms  bits=822,336
+  enc frame 164  P    18.28 ms  bits=822,080
+  enc frame 165  P    18.53 ms  bits=822,088
+  enc frame 166  P    18.87 ms  bits=821,320
+  enc frame 167  P    18.22 ms  bits=820,656
+  enc frame 168  P    18.18 ms  bits=820,584
+  enc frame 169  P    18.41 ms  bits=820,464
+  enc frame 170  P    18.36 ms  bits=820,752
+  enc frame 171  P    18.72 ms  bits=820,040
+  enc frame 172  P    18.92 ms  bits=820,560
+  enc frame 173  P    19.92 ms  bits=819,504
+  enc frame 174  P    18.41 ms  bits=819,016
+  enc frame 175  P    18.71 ms  bits=819,432
+  enc frame 176  P    18.75 ms  bits=819,560
+  enc frame 177  P    19.02 ms  bits=820,088
+  enc frame 178  P    18.20 ms  bits=820,272
+  enc frame 179  P    18.56 ms  bits=819,376
+  enc frame 180  P    18.45 ms  bits=820,920
+  enc frame 181  P    18.33 ms  bits=819,808
+  enc frame 182  P    18.62 ms  bits=820,192
+  enc frame 183  P    19.00 ms  bits=818,984
+  enc frame 184  P    18.34 ms  bits=819,544
+  enc frame 185  P    18.28 ms  bits=819,816
+  enc frame 186  P    18.22 ms  bits=819,720
+  enc frame 187  P    19.00 ms  bits=819,216
+  enc frame 188  P    18.65 ms  bits=819,360
+  enc frame 189  P    18.95 ms  bits=820,088
+  enc frame 190  P    19.00 ms  bits=821,256
+  enc frame 191  P    19.04 ms  bits=821,192
+  enc frame 192  P    18.64 ms  bits=821,720
+  enc frame 193  P    22.83 ms  bits=826,304
+  enc frame 194  P    19.06 ms  bits=834,512
+  enc frame 195  P    19.07 ms  bits=805,552
+  enc frame 196  P    18.24 ms  bits=822,808
+  enc frame 197  P    19.16 ms  bits=821,288
+  enc frame 198  P    18.73 ms  bits=822,184
+  enc frame 199  P    18.91 ms  bits=821,288
+  enc frame 200  P    18.42 ms  bits=821,392
+  enc frame 201  P    18.87 ms  bits=821,320
+  enc frame 202  P    18.53 ms  bits=821,328
+  enc frame 203  P    19.37 ms  bits=821,792
+  enc frame 204  P    18.81 ms  bits=820,120
+  enc frame 205  P    19.16 ms  bits=819,552
+  enc frame 206  P    18.37 ms  bits=820,392
+  enc frame 207  P    18.89 ms  bits=820,000
+  enc frame 208  P    19.13 ms  bits=819,816
+  enc frame 209  P    18.72 ms  bits=820,600
+  enc frame 210  P    19.09 ms  bits=819,000
+  enc frame 211  P    19.11 ms  bits=819,440
+  enc frame 212  P    18.41 ms  bits=819,968
+  enc frame 213  P    18.92 ms  bits=818,680
+  enc frame 214  P    18.67 ms  bits=819,304
+  enc frame 215  P    18.93 ms  bits=819,232
+  enc frame 216  P    18.18 ms  bits=818,464
+  enc frame 217  P    19.03 ms  bits=818,520
+  enc frame 218  P    18.48 ms  bits=818,952
+  enc frame 219  P    18.50 ms  bits=819,392
+  enc frame 220  P    18.91 ms  bits=820,024
+  enc frame 221  P    19.18 ms  bits=818,992
+  enc frame 222  P    18.48 ms  bits=820,032
+  enc frame 223  P    19.02 ms  bits=820,464
+  enc frame 224  P    18.60 ms  bits=819,800
+  enc frame 225  P    18.73 ms  bits=819,464
+  enc frame 226  P    18.88 ms  bits=819,616
+  enc frame 227  P    18.17 ms  bits=819,480
+  enc frame 228  P    18.48 ms  bits=819,128
+  enc frame 229  P    18.36 ms  bits=819,080
+  enc frame 230  P    18.56 ms  bits=818,432
+  enc frame 231  P    18.66 ms  bits=819,296
+  enc frame 232  P    19.06 ms  bits=819,088
+  enc frame 233  P    19.07 ms  bits=818,376
+  enc frame 234  P    18.21 ms  bits=818,696
+  enc frame 235  P    18.21 ms  bits=818,880
+  enc frame 236  P    18.78 ms  bits=820,200
+  enc frame 237  P    19.06 ms  bits=819,304
+  enc frame 238  P    18.15 ms  bits=819,376
+  enc frame 239  P    18.33 ms  bits=819,608
+  enc frame 240  P    18.70 ms  bits=819,976
+  enc frame 241  P    18.40 ms  bits=819,560
+  enc frame 242  P    18.79 ms  bits=820,584
+  enc frame 243  P    19.18 ms  bits=819,320
+  enc frame 244  P    18.24 ms  bits=820,376
+  enc frame 245  P    18.20 ms  bits=819,744
+  enc frame 246  P    18.38 ms  bits=821,352
+  enc frame 247  P    18.74 ms  bits=820,840
+  enc frame 248  P    19.01 ms  bits=820,616
+  enc frame 249  P    18.54 ms  bits=820,160
+  enc frame 250  P    18.97 ms  bits=820,816
+  enc frame 251  P    18.30 ms  bits=820,408
+  enc frame 252  P    19.00 ms  bits=821,192
+  enc frame 253  P    19.02 ms  bits=820,008
+  enc frame 254  P    18.33 ms  bits=819,824
+  enc frame 255  P    18.23 ms  bits=819,376
+  enc frame 256  P    18.51 ms  bits=819,800
+  enc frame 257  P    22.15 ms  bits=829,920
+  enc frame 258  P    18.98 ms  bits=831,888
+  enc frame 259  P    18.25 ms  bits=805,096
+  enc frame 260  P    18.29 ms  bits=821,408
+  enc frame 261  P    18.73 ms  bits=820,752
+  enc frame 262  P    18.44 ms  bits=820,704
+  enc frame 263  P    18.78 ms  bits=820,280
+  enc frame 264  P    18.97 ms  bits=820,968
+  enc frame 265  P    18.43 ms  bits=819,784
+  enc frame 266  P    18.26 ms  bits=820,368
+  enc frame 267  P    18.59 ms  bits=820,672
+  enc frame 268  P    19.44 ms  bits=820,208
+  enc frame 269  P    19.04 ms  bits=819,840
+  enc frame 270  P    19.20 ms  bits=818,816
+  enc frame 271  P    18.47 ms  bits=819,960
+  enc frame 272  P    19.23 ms  bits=820,048
+  enc frame 273  P    18.50 ms  bits=820,264
+  enc frame 274  P    19.34 ms  bits=820,792
+  enc frame 275  P    18.66 ms  bits=820,184
+  enc frame 276  P    19.17 ms  bits=821,440
+  enc frame 277  P    18.52 ms  bits=819,992
+  enc frame 278  P    19.30 ms  bits=822,008
+  enc frame 279  P    18.64 ms  bits=820,896
+  enc frame 280  P    18.93 ms  bits=821,368
+  enc frame 281  P    18.27 ms  bits=820,064
+  enc frame 282  P    18.71 ms  bits=821,392
+  enc frame 283  P    18.77 ms  bits=819,256
+  enc frame 284  P    18.45 ms  bits=820,208
+  enc frame 285  P    18.86 ms  bits=819,800
+  enc frame 286  P    19.12 ms  bits=818,328
+  enc frame 287  P    18.42 ms  bits=818,648
+  enc frame 288  P    19.09 ms  bits=819,200
+  enc frame 289  P    18.38 ms  bits=818,600
+  enc frame 290  P    18.71 ms  bits=818,904
+  enc frame 291  P    19.02 ms  bits=819,064
+  enc frame 292  P    18.98 ms  bits=819,880
+  enc frame 293  P    18.42 ms  bits=819,736
+  enc frame 294  P    18.79 ms  bits=819,568
+  enc frame 295  P    18.65 ms  bits=820,512
+  enc frame 296  P    18.80 ms  bits=819,848
+  enc frame 297  P    18.99 ms  bits=818,840
+  enc frame 298  P    18.91 ms  bits=819,808
+  enc frame 299  P    18.28 ms  bits=819,616
+  new sps: {'sps_id': 0, 'height': 1080, 'width': 1920, 'ec_part': 1, 'use_ada_i': 0}
+  dec frame   0  I    64.45 ms  bits=1,118,552  PSNR=9.220
+  new sps: {'sps_id': 1, 'height': 1080, 'width': 1920, 'ec_part': 1, 'use_ada_i': 1}
+  dec frame   1  P    15.98 ms  bits=997,544  PSNR=9.898
+  dec frame   2  P    14.03 ms  bits=836,672  PSNR=9.921
+  dec frame   3  P    14.09 ms  bits=810,680  PSNR=9.914
+  dec frame   4  P    14.62 ms  bits=822,168  PSNR=9.916
+  dec frame   5  P    13.82 ms  bits=819,656  PSNR=9.912
+  dec frame   6  P    14.32 ms  bits=820,472  PSNR=9.897
+  dec frame   7  P    13.60 ms  bits=821,232  PSNR=9.893
+  dec frame   8  P    14.49 ms  bits=821,752  PSNR=9.875
+  dec frame   9  P    14.51 ms  bits=820,360  PSNR=9.909
+  dec frame  10  P    14.10 ms  bits=820,824  PSNR=9.928
+  dec frame  11  P    14.09 ms  bits=820,680  PSNR=9.944
+  dec frame  12  P    13.85 ms  bits=821,704  PSNR=9.958
+  dec frame  13  P    14.27 ms  bits=821,224  PSNR=9.946
+  dec frame  14  P    14.63 ms  bits=821,656  PSNR=9.959
+  dec frame  15  P    14.29 ms  bits=821,712  PSNR=9.953
+  dec frame  16  P    14.20 ms  bits=821,432  PSNR=9.972
+  dec frame  17  P    13.93 ms  bits=820,648  PSNR=9.987
+  dec frame  18  P    14.27 ms  bits=822,104  PSNR=9.987
+  dec frame  19  P    13.60 ms  bits=821,296  PSNR=9.997
+  dec frame  20  P    14.36 ms  bits=821,352  PSNR=9.975
+  dec frame  21  P    14.60 ms  bits=820,784  PSNR=9.979
+  dec frame  22  P    13.95 ms  bits=821,680  PSNR=9.966
+  dec frame  23  P    14.30 ms  bits=821,136  PSNR=9.960
+  dec frame  24  P    13.61 ms  bits=820,592  PSNR=9.965
+  dec frame  25  P    14.62 ms  bits=820,568  PSNR=9.955
+  dec frame  26  P    14.68 ms  bits=821,752  PSNR=9.969
+  dec frame  27  P    14.03 ms  bits=820,992  PSNR=9.955
+  dec frame  28  P    14.71 ms  bits=820,896  PSNR=9.961
+  dec frame  29  P    13.56 ms  bits=821,152  PSNR=9.963
+  dec frame  30  P    14.45 ms  bits=821,544  PSNR=9.961
+  dec frame  31  P    13.85 ms  bits=820,736  PSNR=9.980
+  dec frame  32  P    14.06 ms  bits=821,760  PSNR=9.972
+  dec frame  33  P    14.46 ms  bits=821,120  PSNR=9.994
+  dec frame  34  P    13.84 ms  bits=821,032  PSNR=9.998
+  dec frame  35  P    14.24 ms  bits=821,736  PSNR=10.008
+  dec frame  36  P    13.94 ms  bits=820,368  PSNR=10.022
+  dec frame  37  P    14.24 ms  bits=821,232  PSNR=10.009
+  dec frame  38  P    14.57 ms  bits=820,128  PSNR=10.014
+  dec frame  39  P    13.72 ms  bits=821,736  PSNR=9.991
+  dec frame  40  P    14.31 ms  bits=820,816  PSNR=9.990
+  dec frame  41  P    14.06 ms  bits=820,928  PSNR=9.983
+  dec frame  42  P    14.37 ms  bits=820,904  PSNR=9.969
+  dec frame  43  P    14.61 ms  bits=821,104  PSNR=9.971
+  dec frame  44  P    13.98 ms  bits=820,712  PSNR=9.952
+  dec frame  45  P    14.91 ms  bits=819,272  PSNR=9.958
+  dec frame  46  P    13.64 ms  bits=819,912  PSNR=9.940
+  dec frame  47  P    14.52 ms  bits=819,912  PSNR=9.925
+  dec frame  48  P    14.12 ms  bits=821,048  PSNR=9.919
+  dec frame  49  P    14.42 ms  bits=819,192  PSNR=9.893
+  dec frame  50  P    14.19 ms  bits=820,328  PSNR=9.894
+  dec frame  51  P    13.96 ms  bits=819,368  PSNR=9.866
+  dec frame  52  P    14.30 ms  bits=819,616  PSNR=9.860
+  dec frame  53  P    14.00 ms  bits=819,768  PSNR=9.857
+  dec frame  54  P    14.31 ms  bits=819,912  PSNR=9.851
+  dec frame  55  P    14.62 ms  bits=820,432  PSNR=9.861
+  dec frame  56  P    14.58 ms  bits=820,384  PSNR=9.846
+  dec frame  57  P    13.93 ms  bits=819,080  PSNR=9.856
+  dec frame  58  P    14.07 ms  bits=819,976  PSNR=9.852
+  dec frame  59  P    14.04 ms  bits=820,912  PSNR=9.858
+  dec frame  60  P    14.24 ms  bits=820,144  PSNR=9.871
+  dec frame  61  P    14.56 ms  bits=820,256  PSNR=9.863
+  dec frame  62  P    13.91 ms  bits=820,408  PSNR=9.882
+  dec frame  63  P    13.93 ms  bits=820,040  PSNR=9.878
+  dec frame  64  P    14.67 ms  bits=820,640  PSNR=9.893
+  dec frame  65  P    16.08 ms  bits=825,768  PSNR=9.883
+  dec frame  66  P    14.26 ms  bits=832,704  PSNR=9.897
+  dec frame  67  P    14.14 ms  bits=806,744  PSNR=9.914
+  dec frame  68  P    14.37 ms  bits=819,664  PSNR=9.899
+  dec frame  69  P    13.92 ms  bits=819,528  PSNR=9.906
+  dec frame  70  P    13.93 ms  bits=820,680  PSNR=9.901
+  dec frame  71  P    14.30 ms  bits=820,600  PSNR=9.904
+  dec frame  72  P    13.59 ms  bits=820,384  PSNR=9.914
+  dec frame  73  P    14.50 ms  bits=819,224  PSNR=9.904
+  dec frame  74  P    14.01 ms  bits=818,720  PSNR=9.917
+  dec frame  75  P    14.08 ms  bits=820,208  PSNR=9.906
+  dec frame  76  P    13.96 ms  bits=820,680  PSNR=9.909
+  dec frame  77  P    14.60 ms  bits=819,912  PSNR=9.903
+  dec frame  78  P    14.33 ms  bits=819,912  PSNR=9.885
+  dec frame  79  P    14.15 ms  bits=819,984  PSNR=9.887
+  dec frame  80  P    14.40 ms  bits=820,192  PSNR=9.862
+  dec frame  81  P    13.89 ms  bits=820,504  PSNR=9.868
+  dec frame  82  P    14.67 ms  bits=820,120  PSNR=9.866
+  dec frame  83  P    13.95 ms  bits=819,696  PSNR=9.877
+  dec frame  84  P    13.83 ms  bits=820,216  PSNR=9.892
+  dec frame  85  P    14.37 ms  bits=820,168  PSNR=9.880
+  dec frame  86  P    13.88 ms  bits=819,448  PSNR=9.898
+  dec frame  87  P    13.88 ms  bits=820,256  PSNR=9.893
+  dec frame  88  P    14.05 ms  bits=821,136  PSNR=9.901
+  dec frame  89  P    14.19 ms  bits=821,200  PSNR=9.902
+  dec frame  90  P    14.53 ms  bits=822,120  PSNR=9.893
+  dec frame  91  P    14.48 ms  bits=820,152  PSNR=9.899
+  dec frame  92  P    14.09 ms  bits=821,160  PSNR=9.871
+  dec frame  93  P    13.88 ms  bits=819,920  PSNR=9.865
+  dec frame  94  P    14.50 ms  bits=820,056  PSNR=9.848
+  dec frame  95  P    14.26 ms  bits=818,856  PSNR=9.849
+  dec frame  96  P    14.06 ms  bits=821,200  PSNR=9.851
+  dec frame  97  P    14.25 ms  bits=820,232  PSNR=9.832
+  dec frame  98  P    13.96 ms  bits=818,832  PSNR=9.845
+  dec frame  99  P    14.51 ms  bits=818,800  PSNR=9.841
+  dec frame 100  P    14.01 ms  bits=820,384  PSNR=9.860
+  dec frame 101  P    13.83 ms  bits=819,272  PSNR=9.881
+  dec frame 102  P    14.43 ms  bits=821,128  PSNR=9.892
+  dec frame 103  P    13.98 ms  bits=821,680  PSNR=9.913
+  dec frame 104  P    14.21 ms  bits=820,336  PSNR=9.900
+  dec frame 105  P    13.88 ms  bits=820,648  PSNR=9.908
+  dec frame 106  P    13.61 ms  bits=820,840  PSNR=9.910
+  dec frame 107  P    14.46 ms  bits=821,824  PSNR=9.919
+  dec frame 108  P    14.17 ms  bits=822,824  PSNR=9.937
+  dec frame 109  P    14.06 ms  bits=821,320  PSNR=9.926
+  dec frame 110  P    13.95 ms  bits=820,864  PSNR=9.931
+  dec frame 111  P    14.63 ms  bits=820,048  PSNR=9.914
+  dec frame 112  P    14.32 ms  bits=820,320  PSNR=9.899
+  dec frame 113  P    14.03 ms  bits=818,680  PSNR=9.869
+  dec frame 114  P    14.34 ms  bits=820,128  PSNR=9.840
+  dec frame 115  P    14.07 ms  bits=819,632  PSNR=9.845
+  dec frame 116  P    14.98 ms  bits=820,832  PSNR=9.832
+  dec frame 117  P    13.87 ms  bits=820,176  PSNR=9.849
+  dec frame 118  P    13.90 ms  bits=819,544  PSNR=9.856
+  dec frame 119  P    13.97 ms  bits=820,064  PSNR=9.864
+  dec frame 120  P    14.28 ms  bits=819,688  PSNR=9.876
+  dec frame 121  P    14.32 ms  bits=819,464  PSNR=9.870
+  dec frame 122  P    13.96 ms  bits=821,232  PSNR=9.892
+  dec frame 123  P    13.98 ms  bits=819,016  PSNR=9.894
+  dec frame 124  P    14.92 ms  bits=820,320  PSNR=9.906
+  dec frame 125  P    13.57 ms  bits=819,960  PSNR=9.916
+  dec frame 126  P    14.21 ms  bits=819,856  PSNR=9.910
+  dec frame 127  P    14.11 ms  bits=819,936  PSNR=9.921
+  dec frame 128  P    14.24 ms  bits=820,888  PSNR=9.904
+  dec frame 129  P    15.31 ms  bits=828,136  PSNR=9.892
+  dec frame 130  P    14.04 ms  bits=832,256  PSNR=9.902
+  dec frame 131  P    14.78 ms  bits=806,328  PSNR=9.903
+  dec frame 132  P    13.80 ms  bits=820,264  PSNR=9.910
+  dec frame 133  P    14.24 ms  bits=818,280  PSNR=9.890
+  dec frame 134  P    14.10 ms  bits=820,448  PSNR=9.898
+  dec frame 135  P    14.20 ms  bits=821,040  PSNR=9.891
+  dec frame 136  P    14.07 ms  bits=820,824  PSNR=9.905
+  dec frame 137  P    14.13 ms  bits=819,792  PSNR=9.914
+  dec frame 138  P    14.31 ms  bits=820,232  PSNR=9.911
+  dec frame 139  P    14.20 ms  bits=820,232  PSNR=9.927
+  dec frame 140  P    14.60 ms  bits=819,312  PSNR=9.918
+  dec frame 141  P    13.99 ms  bits=820,704  PSNR=9.942
+  dec frame 142  P    13.94 ms  bits=821,848  PSNR=9.951
+  dec frame 143  P    14.95 ms  bits=821,696  PSNR=9.968
+  dec frame 144  P    13.80 ms  bits=821,792  PSNR=10.000
+  dec frame 145  P    14.33 ms  bits=822,312  PSNR=10.011
+  dec frame 146  P    14.05 ms  bits=822,288  PSNR=10.060
+  dec frame 147  P    14.13 ms  bits=821,408  PSNR=10.090
+  dec frame 148  P    14.66 ms  bits=822,504  PSNR=10.131
+  dec frame 149  P    13.75 ms  bits=822,112  PSNR=10.155
+  dec frame 150  P    14.22 ms  bits=822,208  PSNR=10.162
+  dec frame 151  P    14.17 ms  bits=822,688  PSNR=10.186
+  dec frame 152  P    14.35 ms  bits=822,856  PSNR=10.178
+  dec frame 153  P    13.88 ms  bits=822,648  PSNR=10.190
+  dec frame 154  P    14.13 ms  bits=822,368  PSNR=10.188
+  dec frame 155  P    14.95 ms  bits=822,584  PSNR=10.189
+  dec frame 156  P    13.59 ms  bits=822,432  PSNR=10.202
+  dec frame 157  P    14.33 ms  bits=822,824  PSNR=10.186
+  dec frame 158  P    14.04 ms  bits=823,368  PSNR=10.190
+  dec frame 159  P    14.15 ms  bits=821,808  PSNR=10.164
+  dec frame 160  P    14.59 ms  bits=822,336  PSNR=10.152
+  dec frame 161  P    14.12 ms  bits=821,152  PSNR=10.137
+  dec frame 162  P    14.02 ms  bits=821,648  PSNR=10.102
+  dec frame 163  P    13.68 ms  bits=822,288  PSNR=10.080
+  dec frame 164  P    14.26 ms  bits=822,032  PSNR=10.026
+  dec frame 165  P    14.49 ms  bits=822,040  PSNR=9.999
+  dec frame 166  P    14.24 ms  bits=821,272  PSNR=9.955
+  dec frame 167  P    13.98 ms  bits=820,608  PSNR=9.921
+  dec frame 168  P    13.99 ms  bits=820,536  PSNR=9.908
+  dec frame 169  P    14.19 ms  bits=820,416  PSNR=9.879
+  dec frame 170  P    14.51 ms  bits=820,704  PSNR=9.881
+  dec frame 171  P    14.50 ms  bits=819,992  PSNR=9.864
+  dec frame 172  P    13.99 ms  bits=820,512  PSNR=9.860
+  dec frame 173  P    14.16 ms  bits=819,456  PSNR=9.855
+  dec frame 174  P    14.05 ms  bits=818,968  PSNR=9.839
+  dec frame 175  P    14.25 ms  bits=819,384  PSNR=9.851
+  dec frame 176  P    14.36 ms  bits=819,512  PSNR=9.834
+  dec frame 177  P    13.89 ms  bits=820,040  PSNR=9.844
+  dec frame 178  P    14.50 ms  bits=820,224  PSNR=9.842
+  dec frame 179  P    13.92 ms  bits=819,328  PSNR=9.845
+  dec frame 180  P    14.06 ms  bits=820,872  PSNR=9.856
+  dec frame 181  P    13.90 ms  bits=819,760  PSNR=9.843
+  dec frame 182  P    14.53 ms  bits=820,144  PSNR=9.857
+  dec frame 183  P    14.29 ms  bits=818,936  PSNR=9.854
+  dec frame 184  P    13.79 ms  bits=819,496  PSNR=9.873
+  dec frame 185  P    14.41 ms  bits=819,768  PSNR=9.895
+  dec frame 186  P    14.08 ms  bits=819,672  PSNR=9.902
+  dec frame 187  P    14.96 ms  bits=819,168  PSNR=9.932
+  dec frame 188  P    13.98 ms  bits=819,312  PSNR=9.931
+  dec frame 189  P    14.10 ms  bits=820,040  PSNR=9.987
+  dec frame 190  P    13.96 ms  bits=821,208  PSNR=10.013
+  dec frame 191  P    13.57 ms  bits=821,144  PSNR=10.045
+  dec frame 192  P    14.43 ms  bits=821,672  PSNR=10.089
+  dec frame 193  P    15.40 ms  bits=826,256  PSNR=10.085
+  dec frame 194  P    14.07 ms  bits=834,464  PSNR=10.145
+  dec frame 195  P    13.75 ms  bits=805,504  PSNR=10.164
+  dec frame 196  P    13.83 ms  bits=822,760  PSNR=10.180
+  dec frame 197  P    14.44 ms  bits=821,240  PSNR=10.185
+  dec frame 198  P    13.79 ms  bits=822,136  PSNR=10.170
+  dec frame 199  P    14.52 ms  bits=821,240  PSNR=10.169
+  dec frame 200  P    13.88 ms  bits=821,344  PSNR=10.134
+  dec frame 201  P    14.25 ms  bits=821,272  PSNR=10.109
+  dec frame 202  P    14.57 ms  bits=821,280  PSNR=10.065
+  dec frame 203  P    14.19 ms  bits=821,744  PSNR=10.019
+  dec frame 204  P    14.45 ms  bits=820,072  PSNR=9.991
+  dec frame 205  P    13.68 ms  bits=819,504  PSNR=9.937
+  dec frame 206  P    14.30 ms  bits=820,344  PSNR=9.906
+  dec frame 207  P    14.68 ms  bits=819,952  PSNR=9.852
+  dec frame 208  P    14.26 ms  bits=819,768  PSNR=9.817
+  dec frame 209  P    13.93 ms  bits=820,552  PSNR=9.792
+  dec frame 210  P    13.84 ms  bits=818,952  PSNR=9.759
+  dec frame 211  P    14.28 ms  bits=819,392  PSNR=9.751
+  dec frame 212  P    14.46 ms  bits=819,920  PSNR=9.730
+  dec frame 213  P    14.48 ms  bits=818,632  PSNR=9.744
+  dec frame 214  P    14.00 ms  bits=819,256  PSNR=9.745
+  dec frame 215  P    14.11 ms  bits=819,184  PSNR=9.744
+  dec frame 216  P    13.68 ms  bits=818,416  PSNR=9.761
+  dec frame 217  P    13.60 ms  bits=818,472  PSNR=9.756
+  dec frame 218  P    14.25 ms  bits=818,904  PSNR=9.777
+  dec frame 219  P    14.87 ms  bits=819,344  PSNR=9.765
+  dec frame 220  P    14.40 ms  bits=819,976  PSNR=9.768
+  dec frame 221  P    13.95 ms  bits=818,944  PSNR=9.772
+  dec frame 222  P    14.06 ms  bits=819,984  PSNR=9.759
+  dec frame 223  P    14.44 ms  bits=820,416  PSNR=9.759
+  dec frame 224  P    14.36 ms  bits=819,752  PSNR=9.738
+  dec frame 225  P    14.40 ms  bits=819,416  PSNR=9.745
+  dec frame 226  P    13.95 ms  bits=819,568  PSNR=9.745
+  dec frame 227  P    14.24 ms  bits=819,432  PSNR=9.737
+  dec frame 228  P    13.75 ms  bits=819,080  PSNR=9.740
+  dec frame 229  P    14.61 ms  bits=819,032  PSNR=9.719
+  dec frame 230  P    13.98 ms  bits=818,384  PSNR=9.721
+  dec frame 231  P    13.68 ms  bits=819,248  PSNR=9.701
+  dec frame 232  P    14.44 ms  bits=819,040  PSNR=9.695
+  dec frame 233  P    14.04 ms  bits=818,328  PSNR=9.697
+  dec frame 234  P    14.15 ms  bits=818,648  PSNR=9.690
+  dec frame 235  P    13.99 ms  bits=818,832  PSNR=9.708
+  dec frame 236  P    13.90 ms  bits=820,152  PSNR=9.701
+  dec frame 237  P    14.06 ms  bits=819,256  PSNR=9.717
+  dec frame 238  P    13.70 ms  bits=819,328  PSNR=9.726
+  dec frame 239  P    14.50 ms  bits=819,560  PSNR=9.734
+  dec frame 240  P    14.00 ms  bits=819,928  PSNR=9.753
+  dec frame 241  P    14.15 ms  bits=819,512  PSNR=9.753
+  dec frame 242  P    13.99 ms  bits=820,536  PSNR=9.780
+  dec frame 243  P    13.82 ms  bits=819,272  PSNR=9.785
+  dec frame 244  P    14.30 ms  bits=820,328  PSNR=9.799
+  dec frame 245  P    14.44 ms  bits=819,696  PSNR=9.817
+  dec frame 246  P    14.71 ms  bits=821,304  PSNR=9.818
+  dec frame 247  P    14.12 ms  bits=820,792  PSNR=9.844
+  dec frame 248  P    14.08 ms  bits=820,568  PSNR=9.840
+  dec frame 249  P    13.95 ms  bits=820,112  PSNR=9.851
+  dec frame 250  P    13.81 ms  bits=820,768  PSNR=9.849
+  dec frame 251  P    14.31 ms  bits=820,360  PSNR=9.842
+  dec frame 252  P    14.23 ms  bits=821,144  PSNR=9.849
+  dec frame 253  P    14.56 ms  bits=819,960  PSNR=9.825
+  dec frame 254  P    14.24 ms  bits=819,776  PSNR=9.825
+  dec frame 255  P    13.92 ms  bits=819,328  PSNR=9.805
+  dec frame 256  P    15.22 ms  bits=819,752  PSNR=9.793
+  dec frame 257  P    15.46 ms  bits=829,872  PSNR=9.766
+  dec frame 258  P    14.34 ms  bits=831,840  PSNR=9.762
+  dec frame 259  P    13.72 ms  bits=805,048  PSNR=9.770
+  dec frame 260  P    14.62 ms  bits=821,360  PSNR=9.750
+  dec frame 261  P    14.60 ms  bits=820,704  PSNR=9.753
+  dec frame 262  P    14.01 ms  bits=820,656  PSNR=9.741
+  dec frame 263  P    13.79 ms  bits=820,232  PSNR=9.726
+  dec frame 264  P    13.58 ms  bits=820,920  PSNR=9.716
+  dec frame 265  P    14.46 ms  bits=819,736  PSNR=9.687
+  dec frame 266  P    14.85 ms  bits=820,320  PSNR=9.701
+  dec frame 267  P    14.15 ms  bits=820,624  PSNR=9.709
+  dec frame 268  P    13.91 ms  bits=820,160  PSNR=9.726
+  dec frame 269  P    13.99 ms  bits=819,792  PSNR=9.740
+  dec frame 270  P    14.10 ms  bits=818,768  PSNR=9.740
+  dec frame 271  P    13.59 ms  bits=819,912  PSNR=9.756
+  dec frame 272  P    14.50 ms  bits=820,000  PSNR=9.743
+  dec frame 273  P    14.07 ms  bits=820,216  PSNR=9.755
+  dec frame 274  P    14.17 ms  bits=820,744  PSNR=9.760
+  dec frame 275  P    13.99 ms  bits=820,136  PSNR=9.763
+  dec frame 276  P    14.27 ms  bits=821,392  PSNR=9.781
+  dec frame 277  P    14.18 ms  bits=819,944  PSNR=9.779
+  dec frame 278  P    14.55 ms  bits=821,960  PSNR=9.802
+  dec frame 279  P    14.61 ms  bits=820,848  PSNR=9.802
+  dec frame 280  P    14.09 ms  bits=821,320  PSNR=9.802
+  dec frame 281  P    14.33 ms  bits=820,016  PSNR=9.805
+  dec frame 282  P    13.91 ms  bits=821,344  PSNR=9.783
+  dec frame 283  P    14.63 ms  bits=819,208  PSNR=9.774
+  dec frame 284  P    14.07 ms  bits=820,160  PSNR=9.731
+  dec frame 285  P    13.65 ms  bits=819,752  PSNR=9.705
+  dec frame 286  P    14.45 ms  bits=818,280  PSNR=9.675
+  dec frame 287  P    14.15 ms  bits=818,600  PSNR=9.638
+  dec frame 288  P    14.63 ms  bits=819,152  PSNR=9.624
+  dec frame 289  P    14.41 ms  bits=818,552  PSNR=9.604
+  dec frame 290  P    13.72 ms  bits=818,856  PSNR=9.624
+  dec frame 291  P    14.53 ms  bits=819,016  PSNR=9.636
+  dec frame 292  P    14.02 ms  bits=819,832  PSNR=9.663
+  dec frame 293  P    14.28 ms  bits=819,688  PSNR=9.695
+  dec frame 294  P    14.06 ms  bits=819,520  PSNR=9.704
+  dec frame 295  P    14.77 ms  bits=820,464  PSNR=9.731
+  dec frame 296  P    14.35 ms  bits=819,800  PSNR=9.732
+  dec frame 297  P    13.76 ms  bits=818,792  PSNR=9.758
+  dec frame 298  P    14.47 ms  bits=819,760  PSNR=9.778
+  dec frame 299  P    14.05 ms  bits=819,568  PSNR=9.814
+
+  =======================================================
+  Model: tiny  |  1920x1080  |  300 frames  |  QP=32
+  =======================================================
+  intra_period=-1  reset_interval=64
+  Total bytes : 30,829,202  (24663 kbps @ 30fps)
+  Avg PSNR    : 9.8826 dB
+  Enc avg     : 19.4 ms/f  (51.4 FPS)
+  Dec avg     : 14.4 ms/f  (69.6 FPS)
+  Total time  : 26.3 s
+
+Test finished [tiny].  Elapsed: 0.5 min
+Output: output_tiny_cuda_1080p_qp32_300f_run01.json

@@ -1,0 +1,11 @@
+# Runtime dependencies (required for inference)
+numpy
+scipy
+pillow
+
+# PyTorch must be installed separately according to your CUDA version (see README Sec. 8):
+#   pip install torch==2.9.1 --index-url https://download.pytorch.org/whl/cu130
+
+# Build-time only (needed by build_extensions.sh):
+# pybind11
+# ninja

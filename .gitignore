@@ -1,0 +1,26 @@
+# Data (not released)
+dataset
+
+# Weights / prebuilt binaries (not released)
+checkpoint/
+prebuilt/
+*.pth.tar
+*.tar
+*.so
+
+# Runtime artifacts
+out_bin*/
+output_*.json
+*.bin
+*.yuv
+
+# Python / build
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# OS
+.DS_Store
+._*
